@@ -51,7 +51,7 @@ export default function RootLayout({
         <main className="container mx-auto px-4 py-8">{children}</main>
         <footer className="bg-gray-900 text-white py-8 font-serif">
           <div className="flex justify-center space-x-8">
-            <Link href="https://linkedin.com">
+            <Link href="www.linkedin.com/in/seongmin-lee-23878a315">
               <Linkedin className="w-6 h-6" />
             </Link>
             <Link href="mailto:dltjdals0308@naver.com">
